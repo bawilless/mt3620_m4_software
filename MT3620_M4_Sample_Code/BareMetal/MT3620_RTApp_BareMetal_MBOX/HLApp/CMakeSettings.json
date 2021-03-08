@@ -21,7 +21,7 @@
       "variables": [
         {
           "name": "AZURE_SPHERE_TARGET_API_SET",
-          "value": "latest-lts"
+          "value": "8"
         }
       ]
     },
@@ -40,7 +40,7 @@
       "variables": [
         {
           "name": "AZURE_SPHERE_TARGET_API_SET",
-          "value": "latest-lts"
+          "value": "8"
         }
       ]
     }

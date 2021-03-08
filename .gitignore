@@ -1,3 +1,4 @@
 # Ignore output directories
 out
 .vs
+/MT3620_M4_Sample_Code/BareMetal/MT3620_RTApp_BareMetal_MBOX/HLApp/build
